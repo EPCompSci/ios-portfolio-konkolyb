@@ -7,3 +7,4 @@ I'd like you to consider this assignment as a way to get a job / internship / in
 
 Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
 
+Throughout my time in iOS development I worked both individually and as a member of a team. My first app was called Schwifty Slots and was a simple randomization app written in swift. I wanted to explore the basic functionality of the language and gain a basic understanding of concepts using the UIKit provided in XCode. 
