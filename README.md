@@ -9,3 +9,12 @@ EPHS Student Handbook: https://github.com/EPCompSci/EagleNation.git
   This Project was the pinnacle of my CS learning so far at EPHS. It contains many functions that we designed as a team to match the needs of students. The main style that we used were Collection Views that pulled information from a "MyPHPAdmin" Database. These allowed us to impliment the information in the most accessible way possible. One useful feature that XCode helped us use was Navigation Bars as well as Tab Bars. These helped users navigate the app as easily as we intended it. The app is currently in the App Store and we continue to come up with new and exciting features to release to our fellow students!
   
   The environment created in iOS Development has given me the tools and basic knowledge to create functioning as well as innovative apps. I continue to stretch myself every day to learn or accomplish something new in the world of Swift.
+  
+  
+  
+2019-2020 Portfolio
+Term 3:
+During this second year of iOS, this time in Advanced iOS Development, I have felt myself playing more or less the same roll. We started with deconstructing the EPHS Student App and re-thinking everything. Total makeover. I chose a new color palatte, deleted some features, designed some new ones, and with the help of Jake Derouin, made 2 apps that compliment the updated features. 
+
+EPHS Student: https://github.com/EPCompSci/BelaPracticeSpace.git
+  This is the version of the app as it is now. Not everything functions properly, but all are being worked on daily, even if its just 15 minutes. I enjoy talking with classmates with more niche skills to help with advancing the app. Also, very pleased with the word of mouth regarding the release of the app. This is helping me with making a function on the app as a chatroom of sorts for just EPHS students to talk. I am very excited for what the next few months in front of a keyboard will do for me! :)
